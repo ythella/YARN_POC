@@ -25,7 +25,7 @@ public class Application {
     @RequestMapping(method = GET)
     public String home() {
         System.out.println("HELLO !!... App Started");
-        return "WELCOME to EMPLOYEE PROFILES";
+        return "WELCOME to YARN";
     }
 
 }
